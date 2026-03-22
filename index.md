@@ -6,10 +6,14 @@ layout: single
 author_profile: true
 ---
 
-test **test** tets 
-- tgestets
-- testets tttt
+Hello World! 
 
-1. hhh
-2. hehe
-3. jjjj
+Ich bin Corinna und dokumentiere hier meine Gedanken, Projekte und alles was mein Kopf/Herz begehrt. Ich studiere Informatik und IT Sicherheit an der FAU Erlangen Nürnberg und arbeite seit dem Abschluss meiner Ausbildung als Systemintegratorin für Sicherheitstechnik bei Kunden der kritischen Infrastruktur. 
+
+
+Interessen: 
+- digitale Souveränität
+- It-Sicherheit (Hardware Security/Hardware Kryptographie, OT Security, Aufbau sicherer Netze)
+- Schutz kritischer Infrastruktur und dessen gesetzlicher Rahmen
+
+
